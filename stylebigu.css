@@ -1,0 +1,23 @@
+#text{
+	background-image: url("media/fundo.png");
+	width: 100%;
+}
+
+#icon{
+	width: 100%;
+	height: 30%;
+	padding: 10px 10px 10px 10px;
+}
+
+#Foto{
+margin-top: 0%;
+border-radius: 100;
+width: 20%;
+margin-bottom: 0;
+
+}
+
+#Palavras{
+color: white;
+
+}
